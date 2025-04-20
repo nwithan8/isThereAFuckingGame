@@ -1,977 +1,977 @@
 [
   {
-    "date": "2023-02-25T15:10:00-05:00",
+    "date": "2025-02-21T15:10:00-05:00",
     "location": "Salt River Fields at Talking Stick - Scottsdale",
     "opponent": "D-backs"
   },
   {
-    "date": "2023-02-26T15:10:00-05:00",
+    "date": "2025-02-22T15:10:00-05:00",
     "location": "Salt River Fields at Talking Stick - Scottsdale",
-    "opponent": "Brewers"
+    "opponent": "D-backs"
   },
   {
-    "date": "2023-02-27T15:05:00-05:00",
+    "date": "2025-02-23T15:05:00-05:00",
     "location": "Hohokam Stadium - Mesa",
     "opponent": "Athletics"
   },
   {
-    "date": "2023-02-28T15:05:00-05:00",
-    "location": "Surprise Stadium - Surprise",
-    "opponent": "Rangers"
-  },
-  {
-    "date": "2023-03-01T15:10:00-05:00",
+    "date": "2025-02-23T15:10:00-05:00",
     "location": "Salt River Fields at Talking Stick - Scottsdale",
-    "opponent": "Royals"
+    "opponent": "Brewers"
   },
   {
-    "date": "2023-03-02T15:10:00-05:00",
-    "location": "Salt River Fields at Talking Stick - Scottsdale",
-    "opponent": "White Sox"
-  },
-  {
-    "date": "2023-03-03T15:05:00-05:00",
+    "date": "2025-02-24T15:05:00-05:00",
     "location": "Scottsdale Stadium - Scottsdale",
     "opponent": "Giants"
   },
   {
-    "date": "2023-03-04T15:10:00-05:00",
-    "location": "Peoria Stadium - Peoria",
-    "opponent": "Mariners"
-  },
-  {
-    "date": "2023-03-05T15:10:00-05:00",
+    "date": "2025-02-25T15:10:00-05:00",
     "location": "Salt River Fields at Talking Stick - Scottsdale",
-    "opponent": "Cubs"
+    "opponent": "White Sox"
   },
   {
-    "date": "2023-03-06T20:05:00-05:00",
-    "location": "Goodyear Ballpark - Goodyear",
-    "opponent": "Reds"
-  },
-  {
-    "date": "2023-03-06T15:10:00-05:00",
-    "location": "Salt River Fields at Talking Stick - Scottsdale",
-    "opponent": "Rangers"
-  },
-  {
-    "date": "2023-03-08T15:10:00-05:00",
-    "location": "Tempe Diablo Stadium - Tempe",
-    "opponent": "Angels"
-  },
-  {
-    "date": "2023-03-09T15:10:00-05:00",
-    "location": "Salt River Fields at Talking Stick - Scottsdale",
-    "opponent": "Mexico"
-  },
-  {
-    "date": "2023-03-10T15:10:00-05:00",
-    "location": "Salt River Fields at Talking Stick - Scottsdale",
-    "opponent": "Giants"
-  },
-  {
-    "date": "2023-03-11T15:10:00-05:00",
-    "location": "Salt River Fields at Talking Stick - Scottsdale",
-    "opponent": "Mariners"
-  },
-  {
-    "date": "2023-03-12T16:10:00-04:00",
-    "location": "Salt River Fields at Talking Stick - Scottsdale",
-    "opponent": "D-backs"
-  },
-  {
-    "date": "2023-03-13T16:10:00-04:00",
-    "location": "Salt River Fields at Talking Stick - Scottsdale",
-    "opponent": "Athletics"
-  },
-  {
-    "date": "2023-03-14T21:05:00-04:00",
-    "location": "Sloan Park - Mesa",
-    "opponent": "Cubs"
-  },
-  {
-    "date": "2023-03-16T16:10:00-04:00",
-    "location": "Salt River Fields at Talking Stick - Scottsdale",
-    "opponent": "Padres"
-  },
-  {
-    "date": "2023-03-17T16:10:00-04:00",
-    "location": "Salt River Fields at Talking Stick - Scottsdale",
-    "opponent": "D-backs"
-  },
-  {
-    "date": "2023-03-18T16:05:00-04:00",
+    "date": "2025-02-26T15:05:00-05:00",
     "location": "Surprise Stadium - Surprise",
     "opponent": "Royals"
   },
   {
-    "date": "2023-03-18T16:10:00-04:00",
-    "location": "Las Vegas Ballpark - Summerlin",
-    "opponent": "Royals"
+    "date": "2025-02-27T15:10:00-05:00",
+    "location": "Salt River Fields at Talking Stick - Scottsdale",
+    "opponent": "Dodgers"
   },
   {
-    "date": "2023-03-19T16:10:00-04:00",
-    "location": "Las Vegas Ballpark - Summerlin",
-    "opponent": "Royals"
-  },
-  {
-    "date": "2023-03-19T16:05:00-04:00",
+    "date": "2025-02-28T15:05:00-05:00",
     "location": "Goodyear Ballpark - Goodyear",
     "opponent": "Guardians"
   },
   {
-    "date": "2023-03-20T21:40:00-04:00",
+    "date": "2025-03-01T15:10:00-05:00",
     "location": "Salt River Fields at Talking Stick - Scottsdale",
-    "opponent": "Dodgers"
+    "opponent": "D-backs"
   },
   {
-    "date": "2023-03-21T21:40:00-04:00",
+    "date": "2025-03-02T15:10:00-05:00",
+    "location": "Salt River Fields at Talking Stick - Scottsdale",
+    "opponent": "Mariners"
+  },
+  {
+    "date": "2025-03-03T15:10:00-05:00",
+    "location": "Tempe Diablo Stadium - Tempe",
+    "opponent": "Angels"
+  },
+  {
+    "date": "2025-03-04T15:10:00-05:00",
+    "location": "Salt River Fields at Talking Stick - Scottsdale",
+    "opponent": "Reds"
+  },
+  {
+    "date": "2025-03-05T15:10:00-05:00",
     "location": "Peoria Stadium - Peoria",
     "opponent": "Padres"
   },
   {
-    "date": "2023-03-22T16:10:00-04:00",
+    "date": "2025-03-08T15:10:00-05:00",
     "location": "Salt River Fields at Talking Stick - Scottsdale",
+    "opponent": "Athletics"
+  },
+  {
+    "date": "2025-03-09T16:10:00-04:00",
+    "location": "Peoria Stadium - Peoria",
+    "opponent": "Mariners"
+  },
+  {
+    "date": "2025-03-10T16:10:00-04:00",
+    "location": "Salt River Fields at Talking Stick - Scottsdale",
+    "opponent": "Giants"
+  },
+  {
+    "date": "2025-03-10T16:10:00-04:00",
+    "location": "Tempe Diablo Stadium - Tempe",
     "opponent": "Angels"
   },
   {
-    "date": "2023-03-24T16:10:00-04:00",
-    "location": "American Family Fields of Phoenix - Phoenix",
-    "opponent": "Brewers"
+    "date": "2025-03-11T16:05:00-04:00",
+    "location": "Goodyear Ballpark - Goodyear",
+    "opponent": "Reds"
   },
   {
-    "date": "2023-03-25T21:40:00-04:00",
+    "date": "2025-03-12T16:10:00-04:00",
+    "location": "Salt River Fields at Talking Stick - Scottsdale",
+    "opponent": "Padres"
+  },
+  {
+    "date": "2025-03-13T15:10:00-04:00",
     "location": "Salt River Fields at Talking Stick - Scottsdale",
     "opponent": "Guardians"
   },
   {
-    "date": "2023-03-26T16:05:00-04:00",
+    "date": "2025-03-14T21:05:00-04:00",
+    "location": "Surprise Stadium - Surprise",
+    "opponent": "Rangers"
+  },
+  {
+    "date": "2025-03-15T16:05:00-04:00",
     "location": "Camelback Ranch - Glendale",
     "opponent": "White Sox"
   },
   {
-    "date": "2023-03-26T16:10:00-04:00",
+    "date": "2025-03-16T16:10:00-04:00",
     "location": "Salt River Fields at Talking Stick - Scottsdale",
-    "opponent": "Reds"
+    "opponent": "Royals"
   },
   {
-    "date": "2023-03-27T16:10:00-04:00",
+    "date": "2025-03-18T21:40:00-04:00",
+    "location": "Salt River Fields at Talking Stick - Scottsdale",
+    "opponent": "Giants"
+  },
+  {
+    "date": "2025-03-19T16:10:00-04:00",
+    "location": "Salt River Fields at Talking Stick - Scottsdale",
+    "opponent": "D-backs"
+  },
+  {
+    "date": "2025-03-20T21:05:00-04:00",
+    "location": "Surprise Stadium - Surprise",
+    "opponent": "Rangers"
+  },
+  {
+    "date": "2025-03-21T16:10:00-04:00",
+    "location": "Salt River Fields at Talking Stick - Scottsdale",
+    "opponent": "Angels"
+  },
+  {
+    "date": "2025-03-22T16:05:00-04:00",
+    "location": "Sloan Park - Mesa",
+    "opponent": "Cubs"
+  },
+  {
+    "date": "2025-03-22T16:10:00-04:00",
+    "location": "Salt River Fields at Talking Stick - Scottsdale",
+    "opponent": "White Sox"
+  },
+  {
+    "date": "2025-03-23T16:10:00-04:00",
     "location": "American Family Fields of Phoenix - Phoenix",
     "opponent": "Brewers"
   },
   {
-    "date": "2023-03-28T15:00:00-04:00",
+    "date": "2025-03-24T15:10:00-04:00",
     "location": "Salt River Fields at Talking Stick - Scottsdale",
     "opponent": "Brewers"
   },
   {
-    "date": "2023-03-30T21:40:00-04:00",
-    "location": "Petco Park - San Diego",
-    "opponent": "Padres"
+    "date": "2025-03-25T13:05:00-04:00",
+    "location": "Lee Health Sports Complex - Fort Myers",
+    "opponent": "Twins"
   },
   {
-    "date": "2023-03-31T21:40:00-04:00",
-    "location": "Petco Park - San Diego",
-    "opponent": "Padres"
+    "date": "2025-03-28T16:10:00-04:00",
+    "location": "George M. Steinbrenner Field - Tampa",
+    "opponent": "Rays"
   },
   {
-    "date": "2023-04-01T20:40:00-04:00",
-    "location": "Petco Park - San Diego",
-    "opponent": "Padres"
+    "date": "2025-03-29T16:10:00-04:00",
+    "location": "George M. Steinbrenner Field - Tampa",
+    "opponent": "Rays"
   },
   {
-    "date": "2023-04-02T16:10:00-04:00",
-    "location": "Petco Park - San Diego",
-    "opponent": "Padres"
+    "date": "2025-03-30T13:40:00-04:00",
+    "location": "George M. Steinbrenner Field - Tampa",
+    "opponent": "Rays"
   },
   {
-    "date": "2023-04-03T22:10:00-04:00",
-    "location": "Dodger Stadium - Los Angeles",
-    "opponent": "Dodgers"
-  },
-  {
-    "date": "2023-04-04T22:10:00-04:00",
-    "location": "Dodger Stadium - Los Angeles",
-    "opponent": "Dodgers"
-  },
-  {
-    "date": "2023-04-06T16:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Nationals"
-  },
-  {
-    "date": "2023-04-07T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Nationals"
-  },
-  {
-    "date": "2023-04-08T20:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Nationals"
-  },
-  {
-    "date": "2023-04-09T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Nationals"
-  },
-  {
-    "date": "2023-04-10T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Cardinals"
-  },
-  {
-    "date": "2023-04-11T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Cardinals"
-  },
-  {
-    "date": "2023-04-12T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Cardinals"
-  },
-  {
-    "date": "2023-04-14T22:10:00-04:00",
-    "location": "T-Mobile Park - Seattle",
-    "opponent": "Mariners"
-  },
-  {
-    "date": "2023-04-15T21:40:00-04:00",
-    "location": "T-Mobile Park - Seattle",
-    "opponent": "Mariners"
-  },
-  {
-    "date": "2023-04-16T16:10:00-04:00",
-    "location": "T-Mobile Park - Seattle",
-    "opponent": "Mariners"
-  },
-  {
-    "date": "2023-04-17T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Pirates"
-  },
-  {
-    "date": "2023-04-18T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Pirates"
-  },
-  {
-    "date": "2023-04-19T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Pirates"
-  },
-  {
-    "date": "2023-04-20T18:40:00-04:00",
+    "date": "2025-03-31T15:05:00-04:00",
     "location": "Citizens Bank Park - Philadelphia",
     "opponent": "Phillies"
   },
   {
-    "date": "2023-04-21T19:05:00-04:00",
+    "date": "2025-04-02T18:45:00-04:00",
     "location": "Citizens Bank Park - Philadelphia",
     "opponent": "Phillies"
   },
   {
-    "date": "2023-04-22T16:05:00-04:00",
+    "date": "2025-04-03T13:05:00-04:00",
     "location": "Citizens Bank Park - Philadelphia",
     "opponent": "Phillies"
   },
   {
-    "date": "2023-04-23T12:05:00-04:00",
-    "location": "Citizens Bank Park - Philadelphia",
-    "opponent": "Phillies"
-  },
-  {
-    "date": "2023-04-24T18:10:00-04:00",
-    "location": "Progressive Field - Cleveland",
-    "opponent": "Guardians"
-  },
-  {
-    "date": "2023-04-25T18:10:00-04:00",
-    "location": "Progressive Field - Cleveland",
-    "opponent": "Guardians"
-  },
-  {
-    "date": "2023-04-26T13:10:00-04:00",
-    "location": "Progressive Field - Cleveland",
-    "opponent": "Guardians"
-  },
-  {
-    "date": "2023-04-28T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "D-backs"
-  },
-  {
-    "date": "2023-04-29T20:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "D-backs"
-  },
-  {
-    "date": "2023-04-30T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "D-backs"
-  },
-  {
-    "date": "2023-05-02T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Brewers"
-  },
-  {
-    "date": "2023-05-03T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Brewers"
-  },
-  {
-    "date": "2023-05-04T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Brewers"
-  },
-  {
-    "date": "2023-05-05T19:10:00-04:00",
-    "location": "Citi Field - Flushing",
-    "opponent": "Mets"
-  },
-  {
-    "date": "2023-05-06T16:10:00-04:00",
-    "location": "Citi Field - Flushing",
-    "opponent": "Mets"
-  },
-  {
-    "date": "2023-05-07T13:40:00-04:00",
-    "location": "Citi Field - Flushing",
-    "opponent": "Mets"
-  },
-  {
-    "date": "2023-05-08T18:35:00-04:00",
-    "location": "PNC Park - Pittsburgh",
-    "opponent": "Pirates"
-  },
-  {
-    "date": "2023-05-09T18:35:00-04:00",
-    "location": "PNC Park - Pittsburgh",
-    "opponent": "Pirates"
-  },
-  {
-    "date": "2023-05-10T12:35:00-04:00",
-    "location": "PNC Park - Pittsburgh",
-    "opponent": "Pirates"
-  },
-  {
-    "date": "2023-05-12T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Phillies"
-  },
-  {
-    "date": "2023-05-13T20:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Phillies"
-  },
-  {
-    "date": "2023-05-14T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Phillies"
-  },
-  {
-    "date": "2023-05-15T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Reds"
-  },
-  {
-    "date": "2023-05-16T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Reds"
-  },
-  {
-    "date": "2023-05-17T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Reds"
-  },
-  {
-    "date": "2023-05-19T20:05:00-04:00",
-    "location": "Globe Life Field - Arlington",
-    "opponent": "Rangers"
-  },
-  {
-    "date": "2023-05-20T16:05:00-04:00",
-    "location": "Globe Life Field - Arlington",
-    "opponent": "Rangers"
-  },
-  {
-    "date": "2023-05-21T14:35:00-04:00",
-    "location": "Globe Life Field - Arlington",
-    "opponent": "Rangers"
-  },
-  {
-    "date": "2023-05-22T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Marlins"
-  },
-  {
-    "date": "2023-05-23T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Marlins"
-  },
-  {
-    "date": "2023-05-24T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Marlins"
-  },
-  {
-    "date": "2023-05-25T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Marlins"
-  },
-  {
-    "date": "2023-05-26T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Mets"
-  },
-  {
-    "date": "2023-05-27T21:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Mets"
-  },
-  {
-    "date": "2023-05-28T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Mets"
-  },
-  {
-    "date": "2023-05-29T16:10:00-04:00",
-    "location": "Chase Field - Phoenix",
-    "opponent": "D-backs"
-  },
-  {
-    "date": "2023-05-30T21:40:00-04:00",
-    "location": "Chase Field - Phoenix",
-    "opponent": "D-backs"
-  },
-  {
-    "date": "2023-05-31T21:40:00-04:00",
-    "location": "Chase Field - Phoenix",
-    "opponent": "D-backs"
-  },
-  {
-    "date": "2023-06-01T15:40:00-04:00",
-    "location": "Chase Field - Phoenix",
-    "opponent": "D-backs"
-  },
-  {
-    "date": "2023-06-02T20:10:00-04:00",
-    "location": "Kauffman Stadium - Kansas City",
-    "opponent": "Royals"
-  },
-  {
-    "date": "2023-06-03T16:10:00-04:00",
-    "location": "Kauffman Stadium - Kansas City",
-    "opponent": "Royals"
-  },
-  {
-    "date": "2023-06-04T14:10:00-04:00",
-    "location": "Kauffman Stadium - Kansas City",
-    "opponent": "Royals"
-  },
-  {
-    "date": "2023-06-06T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Giants"
-  },
-  {
-    "date": "2023-06-07T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Giants"
-  },
-  {
-    "date": "2023-06-08T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Giants"
-  },
-  {
-    "date": "2023-06-09T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Padres"
-  },
-  {
-    "date": "2023-06-10T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Padres"
-  },
-  {
-    "date": "2023-06-11T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Padres"
-  },
-  {
-    "date": "2023-06-12T19:10:00-04:00",
-    "location": "Fenway Park - Boston",
-    "opponent": "Red Sox"
-  },
-  {
-    "date": "2023-06-13T19:10:00-04:00",
-    "location": "Fenway Park - Boston",
-    "opponent": "Red Sox"
-  },
-  {
-    "date": "2023-06-14T19:10:00-04:00",
-    "location": "Fenway Park - Boston",
-    "opponent": "Red Sox"
-  },
-  {
-    "date": "2023-06-15T19:20:00-04:00",
-    "location": "Truist Park - Atlanta",
-    "opponent": "Braves"
-  },
-  {
-    "date": "2023-06-16T19:20:00-04:00",
-    "location": "Truist Park - Atlanta",
-    "opponent": "Braves"
-  },
-  {
-    "date": "2023-06-17T16:10:00-04:00",
-    "location": "Truist Park - Atlanta",
-    "opponent": "Braves"
-  },
-  {
-    "date": "2023-06-18T13:30:00-04:00",
-    "location": "Truist Park - Atlanta",
-    "opponent": "Braves"
-  },
-  {
-    "date": "2023-06-19T19:10:00-04:00",
-    "location": "Great American Ball Park - Cincinnati",
-    "opponent": "Reds"
-  },
-  {
-    "date": "2023-06-20T19:10:00-04:00",
-    "location": "Great American Ball Park - Cincinnati",
-    "opponent": "Reds"
-  },
-  {
-    "date": "2023-06-21T12:35:00-04:00",
-    "location": "Great American Ball Park - Cincinnati",
-    "opponent": "Reds"
-  },
-  {
-    "date": "2023-06-23T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Angels"
-  },
-  {
-    "date": "2023-06-24T21:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Angels"
-  },
-  {
-    "date": "2023-06-25T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Angels"
-  },
-  {
-    "date": "2023-06-27T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Dodgers"
-  },
-  {
-    "date": "2023-06-28T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Dodgers"
-  },
-  {
-    "date": "2023-06-29T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Dodgers"
-  },
-  {
-    "date": "2023-06-30T20:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Tigers"
-  },
-  {
-    "date": "2023-07-01T21:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Tigers"
-  },
-  {
-    "date": "2023-07-02T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Tigers"
-  },
-  {
-    "date": "2023-07-04T16:10:00-04:00",
-    "location": "Minute Maid Park - Houston",
-    "opponent": "Astros"
-  },
-  {
-    "date": "2023-07-05T14:10:00-04:00",
-    "location": "Minute Maid Park - Houston",
-    "opponent": "Astros"
-  },
-  {
-    "date": "2023-07-07T22:15:00-04:00",
-    "location": "Oracle Park - San Francisco",
-    "opponent": "Giants"
-  },
-  {
-    "date": "2023-07-08T16:05:00-04:00",
-    "location": "Oracle Park - San Francisco",
-    "opponent": "Giants"
-  },
-  {
-    "date": "2023-07-09T16:05:00-04:00",
-    "location": "Oracle Park - San Francisco",
-    "opponent": "Giants"
-  },
-  {
-    "date": "2023-07-14T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Yankees"
-  },
-  {
-    "date": "2023-07-15T20:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Yankees"
-  },
-  {
-    "date": "2023-07-16T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Yankees"
-  },
-  {
-    "date": "2023-07-18T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Astros"
-  },
-  {
-    "date": "2023-07-19T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Astros"
-  },
-  {
-    "date": "2023-07-21T18:40:00-04:00",
-    "location": "loanDepot park - Miami",
-    "opponent": "Marlins"
-  },
-  {
-    "date": "2023-07-22T13:10:00-04:00",
-    "location": "loanDepot park - Miami",
-    "opponent": "Marlins"
-  },
-  {
-    "date": "2023-07-23T13:40:00-04:00",
-    "location": "loanDepot park - Miami",
-    "opponent": "Marlins"
-  },
-  {
-    "date": "2023-07-24T19:05:00-04:00",
-    "location": "Nationals Park - Washington",
-    "opponent": "Nationals"
-  },
-  {
-    "date": "2023-07-25T19:05:00-04:00",
-    "location": "Nationals Park - Washington",
-    "opponent": "Nationals"
-  },
-  {
-    "date": "2023-07-26T12:05:00-04:00",
-    "location": "Nationals Park - Washington",
-    "opponent": "Nationals"
-  },
-  {
-    "date": "2023-07-28T20:40:00-04:00",
+    "date": "2025-04-04T16:10:00-04:00",
     "location": "Coors Field - Denver",
     "opponent": "Athletics"
   },
   {
-    "date": "2023-07-29T20:10:00-04:00",
+    "date": "2025-04-05T20:10:00-04:00",
     "location": "Coors Field - Denver",
     "opponent": "Athletics"
   },
   {
-    "date": "2023-07-30T15:10:00-04:00",
+    "date": "2025-04-06T15:10:00-04:00",
     "location": "Coors Field - Denver",
     "opponent": "Athletics"
   },
   {
-    "date": "2023-07-31T20:40:00-04:00",
+    "date": "2025-04-08T20:40:00-04:00",
     "location": "Coors Field - Denver",
-    "opponent": "Padres"
-  },
-  {
-    "date": "2023-08-01T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Padres"
-  },
-  {
-    "date": "2023-08-02T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Padres"
-  },
-  {
-    "date": "2023-08-04T20:15:00-04:00",
-    "location": "Busch Stadium - St. Louis",
-    "opponent": "Cardinals"
-  },
-  {
-    "date": "2023-08-05T19:15:00-04:00",
-    "location": "Busch Stadium - St. Louis",
-    "opponent": "Cardinals"
-  },
-  {
-    "date": "2023-08-06T14:15:00-04:00",
-    "location": "Busch Stadium - St. Louis",
-    "opponent": "Cardinals"
-  },
-  {
-    "date": "2023-08-07T20:10:00-04:00",
-    "location": "American Family Field - Milwaukee",
     "opponent": "Brewers"
   },
   {
-    "date": "2023-08-08T20:10:00-04:00",
-    "location": "American Family Field - Milwaukee",
+    "date": "2025-04-09T20:40:00-04:00",
+    "location": "Coors Field - Denver",
     "opponent": "Brewers"
   },
   {
-    "date": "2023-08-09T14:10:00-04:00",
-    "location": "American Family Field - Milwaukee",
+    "date": "2025-04-10T15:10:00-04:00",
+    "location": "Coors Field - Denver",
     "opponent": "Brewers"
   },
   {
-    "date": "2023-08-10T22:10:00-04:00",
-    "location": "Dodger Stadium - Los Angeles",
-    "opponent": "Dodgers"
-  },
-  {
-    "date": "2023-08-11T22:10:00-04:00",
-    "location": "Dodger Stadium - Los Angeles",
-    "opponent": "Dodgers"
-  },
-  {
-    "date": "2023-08-12T21:10:00-04:00",
-    "location": "Dodger Stadium - Los Angeles",
-    "opponent": "Dodgers"
-  },
-  {
-    "date": "2023-08-13T16:10:00-04:00",
-    "location": "Dodger Stadium - Los Angeles",
-    "opponent": "Dodgers"
-  },
-  {
-    "date": "2023-08-14T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "D-backs"
-  },
-  {
-    "date": "2023-08-15T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "D-backs"
-  },
-  {
-    "date": "2023-08-16T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "D-backs"
-  },
-  {
-    "date": "2023-08-18T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "White Sox"
-  },
-  {
-    "date": "2023-08-19T20:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "White Sox"
-  },
-  {
-    "date": "2023-08-20T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "White Sox"
-  },
-  {
-    "date": "2023-08-22T18:40:00-04:00",
-    "location": "Tropicana Field - St. Petersburg",
-    "opponent": "Rays"
-  },
-  {
-    "date": "2023-08-23T18:40:00-04:00",
-    "location": "Tropicana Field - St. Petersburg",
-    "opponent": "Rays"
-  },
-  {
-    "date": "2023-08-24T13:10:00-04:00",
-    "location": "Tropicana Field - St. Petersburg",
-    "opponent": "Rays"
-  },
-  {
-    "date": "2023-08-25T19:05:00-04:00",
-    "location": "Oriole Park at Camden Yards - Baltimore",
-    "opponent": "Orioles"
-  },
-  {
-    "date": "2023-08-26T19:05:00-04:00",
-    "location": "Oriole Park at Camden Yards - Baltimore",
-    "opponent": "Orioles"
-  },
-  {
-    "date": "2023-08-27T13:35:00-04:00",
-    "location": "Oriole Park at Camden Yards - Baltimore",
-    "opponent": "Orioles"
-  },
-  {
-    "date": "2023-08-28T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Braves"
-  },
-  {
-    "date": "2023-08-29T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Braves"
-  },
-  {
-    "date": "2023-08-30T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Braves"
-  },
-  {
-    "date": "2023-09-01T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Blue Jays"
-  },
-  {
-    "date": "2023-09-02T20:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Blue Jays"
-  },
-  {
-    "date": "2023-09-03T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Blue Jays"
-  },
-  {
-    "date": "2023-09-04T16:10:00-04:00",
-    "location": "Chase Field - Phoenix",
-    "opponent": "D-backs"
-  },
-  {
-    "date": "2023-09-05T21:40:00-04:00",
-    "location": "Chase Field - Phoenix",
-    "opponent": "D-backs"
-  },
-  {
-    "date": "2023-09-06T15:40:00-04:00",
-    "location": "Chase Field - Phoenix",
-    "opponent": "D-backs"
-  },
-  {
-    "date": "2023-09-08T22:15:00-04:00",
-    "location": "Oracle Park - San Francisco",
-    "opponent": "Giants"
-  },
-  {
-    "date": "2023-09-09T21:05:00-04:00",
-    "location": "Oracle Park - San Francisco",
-    "opponent": "Giants"
-  },
-  {
-    "date": "2023-09-10T16:05:00-04:00",
-    "location": "Oracle Park - San Francisco",
-    "opponent": "Giants"
-  },
-  {
-    "date": "2023-09-11T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Cubs"
-  },
-  {
-    "date": "2023-09-12T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Cubs"
-  },
-  {
-    "date": "2023-09-13T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Cubs"
-  },
-  {
-    "date": "2023-09-14T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Giants"
-  },
-  {
-    "date": "2023-09-15T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Giants"
-  },
-  {
-    "date": "2023-09-16T20:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Giants"
-  },
-  {
-    "date": "2023-09-17T15:10:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Giants"
-  },
-  {
-    "date": "2023-09-18T21:40:00-04:00",
+    "date": "2025-04-11T21:40:00-04:00",
     "location": "Petco Park - San Diego",
     "opponent": "Padres"
   },
   {
-    "date": "2023-09-19T21:40:00-04:00",
+    "date": "2025-04-12T20:40:00-04:00",
     "location": "Petco Park - San Diego",
     "opponent": "Padres"
   },
   {
-    "date": "2023-09-20T16:10:00-04:00",
+    "date": "2025-04-13T16:10:00-04:00",
     "location": "Petco Park - San Diego",
     "opponent": "Padres"
   },
   {
-    "date": "2023-09-22T14:20:00-04:00",
+    "date": "2025-04-14T22:10:00-04:00",
+    "location": "Dodger Stadium - Los Angeles",
+    "opponent": "Dodgers"
+  },
+  {
+    "date": "2025-04-15T22:10:00-04:00",
+    "location": "Dodger Stadium - Los Angeles",
+    "opponent": "Dodgers"
+  },
+  {
+    "date": "2025-04-16T22:10:00-04:00",
+    "location": "Dodger Stadium - Los Angeles",
+    "opponent": "Dodgers"
+  },
+  {
+    "date": "2025-04-19T16:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Nationals"
+  },
+  {
+    "date": "2025-04-20T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Nationals"
+  },
+  {
+    "date": "2025-04-20T20:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Nationals"
+  },
+  {
+    "date": "2025-04-22T19:40:00-04:00",
+    "location": "Kauffman Stadium - Kansas City",
+    "opponent": "Royals"
+  },
+  {
+    "date": "2025-04-23T19:40:00-04:00",
+    "location": "Kauffman Stadium - Kansas City",
+    "opponent": "Royals"
+  },
+  {
+    "date": "2025-04-24T14:10:00-04:00",
+    "location": "Kauffman Stadium - Kansas City",
+    "opponent": "Royals"
+  },
+  {
+    "date": "2025-04-25T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Reds"
+  },
+  {
+    "date": "2025-04-26T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Reds"
+  },
+  {
+    "date": "2025-04-27T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Reds"
+  },
+  {
+    "date": "2025-04-28T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Braves"
+  },
+  {
+    "date": "2025-04-29T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Braves"
+  },
+  {
+    "date": "2025-04-30T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Braves"
+  },
+  {
+    "date": "2025-05-01T21:45:00-04:00",
+    "location": "Oracle Park - San Francisco",
+    "opponent": "Giants"
+  },
+  {
+    "date": "2025-05-02T22:15:00-04:00",
+    "location": "Oracle Park - San Francisco",
+    "opponent": "Giants"
+  },
+  {
+    "date": "2025-05-03T16:05:00-04:00",
+    "location": "Oracle Park - San Francisco",
+    "opponent": "Giants"
+  },
+  {
+    "date": "2025-05-04T16:05:00-04:00",
+    "location": "Oracle Park - San Francisco",
+    "opponent": "Giants"
+  },
+  {
+    "date": "2025-05-06T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Tigers"
+  },
+  {
+    "date": "2025-05-07T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Tigers"
+  },
+  {
+    "date": "2025-05-08T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Tigers"
+  },
+  {
+    "date": "2025-05-09T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Padres"
+  },
+  {
+    "date": "2025-05-10T20:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Padres"
+  },
+  {
+    "date": "2025-05-11T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Padres"
+  },
+  {
+    "date": "2025-05-12T20:05:00-04:00",
+    "location": "Globe Life Field - Arlington",
+    "opponent": "Rangers"
+  },
+  {
+    "date": "2025-05-13T20:05:00-04:00",
+    "location": "Globe Life Field - Arlington",
+    "opponent": "Rangers"
+  },
+  {
+    "date": "2025-05-14T20:05:00-04:00",
+    "location": "Globe Life Field - Arlington",
+    "opponent": "Rangers"
+  },
+  {
+    "date": "2025-05-16T21:40:00-04:00",
+    "location": "Chase Field - Phoenix",
+    "opponent": "D-backs"
+  },
+  {
+    "date": "2025-05-17T20:10:00-04:00",
+    "location": "Chase Field - Phoenix",
+    "opponent": "D-backs"
+  },
+  {
+    "date": "2025-05-18T16:10:00-04:00",
+    "location": "Chase Field - Phoenix",
+    "opponent": "D-backs"
+  },
+  {
+    "date": "2025-05-19T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Phillies"
+  },
+  {
+    "date": "2025-05-20T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Phillies"
+  },
+  {
+    "date": "2025-05-21T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Phillies"
+  },
+  {
+    "date": "2025-05-22T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Phillies"
+  },
+  {
+    "date": "2025-05-23T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Yankees"
+  },
+  {
+    "date": "2025-05-24T16:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Yankees"
+  },
+  {
+    "date": "2025-05-25T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Yankees"
+  },
+  {
+    "date": "2025-05-26T14:20:00-04:00",
     "location": "Wrigley Field - Chicago",
     "opponent": "Cubs"
   },
   {
-    "date": "2023-09-23T14:20:00-04:00",
+    "date": "2025-05-27T20:05:00-04:00",
     "location": "Wrigley Field - Chicago",
     "opponent": "Cubs"
   },
   {
-    "date": "2023-09-24T14:20:00-04:00",
+    "date": "2025-05-28T20:05:00-04:00",
     "location": "Wrigley Field - Chicago",
     "opponent": "Cubs"
   },
   {
-    "date": "2023-09-26T15:10:00-04:00",
+    "date": "2025-05-30T19:10:00-04:00",
+    "location": "Citi Field - Flushing",
+    "opponent": "Mets"
+  },
+  {
+    "date": "2025-05-31T16:10:00-04:00",
+    "location": "Citi Field - Flushing",
+    "opponent": "Mets"
+  },
+  {
+    "date": "2025-06-01T13:40:00-04:00",
+    "location": "Citi Field - Flushing",
+    "opponent": "Mets"
+  },
+  {
+    "date": "2025-06-02T18:40:00-04:00",
+    "location": "loanDepot park - Miami",
+    "opponent": "Marlins"
+  },
+  {
+    "date": "2025-06-03T18:40:00-04:00",
+    "location": "loanDepot park - Miami",
+    "opponent": "Marlins"
+  },
+  {
+    "date": "2025-06-04T12:10:00-04:00",
+    "location": "loanDepot park - Miami",
+    "opponent": "Marlins"
+  },
+  {
+    "date": "2025-06-06T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Mets"
+  },
+  {
+    "date": "2025-06-07T21:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Mets"
+  },
+  {
+    "date": "2025-06-08T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Mets"
+  },
+  {
+    "date": "2025-06-10T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Giants"
+  },
+  {
+    "date": "2025-06-11T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Giants"
+  },
+  {
+    "date": "2025-06-12T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Giants"
+  },
+  {
+    "date": "2025-06-13T19:15:00-04:00",
+    "location": "Truist Park - Atlanta",
+    "opponent": "Braves"
+  },
+  {
+    "date": "2025-06-14T16:10:00-04:00",
+    "location": "Truist Park - Atlanta",
+    "opponent": "Braves"
+  },
+  {
+    "date": "2025-06-15T13:35:00-04:00",
+    "location": "Truist Park - Atlanta",
+    "opponent": "Braves"
+  },
+  {
+    "date": "2025-06-16T18:45:00-04:00",
+    "location": "Nationals Park - Washington",
+    "opponent": "Nationals"
+  },
+  {
+    "date": "2025-06-17T18:45:00-04:00",
+    "location": "Nationals Park - Washington",
+    "opponent": "Nationals"
+  },
+  {
+    "date": "2025-06-18T18:45:00-04:00",
+    "location": "Nationals Park - Washington",
+    "opponent": "Nationals"
+  },
+  {
+    "date": "2025-06-19T13:05:00-04:00",
+    "location": "Nationals Park - Washington",
+    "opponent": "Nationals"
+  },
+  {
+    "date": "2025-06-20T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "D-backs"
+  },
+  {
+    "date": "2025-06-21T21:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "D-backs"
+  },
+  {
+    "date": "2025-06-22T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "D-backs"
+  },
+  {
+    "date": "2025-06-24T20:40:00-04:00",
     "location": "Coors Field - Denver",
     "opponent": "Dodgers"
   },
   {
-    "date": "2023-09-26T20:40:00-04:00",
+    "date": "2025-06-25T20:40:00-04:00",
     "location": "Coors Field - Denver",
     "opponent": "Dodgers"
   },
   {
-    "date": "2023-09-27T20:40:00-04:00",
+    "date": "2025-06-26T15:10:00-04:00",
     "location": "Coors Field - Denver",
     "opponent": "Dodgers"
   },
   {
-    "date": "2023-09-28T20:40:00-04:00",
-    "location": "Coors Field - Denver",
-    "opponent": "Dodgers"
+    "date": "2025-06-27T20:10:00-04:00",
+    "location": "American Family Field - Milwaukee",
+    "opponent": "Brewers"
   },
   {
-    "date": "2023-09-29T20:10:00-04:00",
+    "date": "2025-06-28T16:10:00-04:00",
+    "location": "American Family Field - Milwaukee",
+    "opponent": "Brewers"
+  },
+  {
+    "date": "2025-06-29T14:10:00-04:00",
+    "location": "American Family Field - Milwaukee",
+    "opponent": "Brewers"
+  },
+  {
+    "date": "2025-07-01T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Astros"
+  },
+  {
+    "date": "2025-07-02T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Astros"
+  },
+  {
+    "date": "2025-07-03T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Astros"
+  },
+  {
+    "date": "2025-07-04T20:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "White Sox"
+  },
+  {
+    "date": "2025-07-05T21:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "White Sox"
+  },
+  {
+    "date": "2025-07-06T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "White Sox"
+  },
+  {
+    "date": "2025-07-07T19:10:00-04:00",
+    "location": "Fenway Park - Boston",
+    "opponent": "Red Sox"
+  },
+  {
+    "date": "2025-07-08T19:10:00-04:00",
+    "location": "Fenway Park - Boston",
+    "opponent": "Red Sox"
+  },
+  {
+    "date": "2025-07-09T19:10:00-04:00",
+    "location": "Fenway Park - Boston",
+    "opponent": "Red Sox"
+  },
+  {
+    "date": "2025-07-11T19:10:00-04:00",
+    "location": "Great American Ball Park - Cincinnati",
+    "opponent": "Reds"
+  },
+  {
+    "date": "2025-07-12T16:10:00-04:00",
+    "location": "Great American Ball Park - Cincinnati",
+    "opponent": "Reds"
+  },
+  {
+    "date": "2025-07-13T13:40:00-04:00",
+    "location": "Great American Ball Park - Cincinnati",
+    "opponent": "Reds"
+  },
+  {
+    "date": "2025-07-18T20:40:00-04:00",
     "location": "Coors Field - Denver",
     "opponent": "Twins"
   },
   {
-    "date": "2023-09-30T20:10:00-04:00",
+    "date": "2025-07-19T20:10:00-04:00",
     "location": "Coors Field - Denver",
     "opponent": "Twins"
   },
   {
-    "date": "2023-10-01T15:10:00-04:00",
+    "date": "2025-07-20T15:10:00-04:00",
     "location": "Coors Field - Denver",
     "opponent": "Twins"
+  },
+  {
+    "date": "2025-07-21T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Cardinals"
+  },
+  {
+    "date": "2025-07-22T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Cardinals"
+  },
+  {
+    "date": "2025-07-23T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Cardinals"
+  },
+  {
+    "date": "2025-07-25T19:05:00-04:00",
+    "location": "Oriole Park at Camden Yards - Baltimore",
+    "opponent": "Orioles"
+  },
+  {
+    "date": "2025-07-26T19:05:00-04:00",
+    "location": "Oriole Park at Camden Yards - Baltimore",
+    "opponent": "Orioles"
+  },
+  {
+    "date": "2025-07-27T13:35:00-04:00",
+    "location": "Oriole Park at Camden Yards - Baltimore",
+    "opponent": "Orioles"
+  },
+  {
+    "date": "2025-07-28T18:40:00-04:00",
+    "location": "Progressive Field - Cleveland",
+    "opponent": "Guardians"
+  },
+  {
+    "date": "2025-07-29T18:40:00-04:00",
+    "location": "Progressive Field - Cleveland",
+    "opponent": "Guardians"
+  },
+  {
+    "date": "2025-07-30T18:40:00-04:00",
+    "location": "Progressive Field - Cleveland",
+    "opponent": "Guardians"
+  },
+  {
+    "date": "2025-08-01T20:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Pirates"
+  },
+  {
+    "date": "2025-08-02T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Pirates"
+  },
+  {
+    "date": "2025-08-03T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Pirates"
+  },
+  {
+    "date": "2025-08-04T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Blue Jays"
+  },
+  {
+    "date": "2025-08-05T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Blue Jays"
+  },
+  {
+    "date": "2025-08-06T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Blue Jays"
+  },
+  {
+    "date": "2025-08-08T21:40:00-04:00",
+    "location": "Chase Field - Phoenix",
+    "opponent": "D-backs"
+  },
+  {
+    "date": "2025-08-09T20:10:00-04:00",
+    "location": "Chase Field - Phoenix",
+    "opponent": "D-backs"
+  },
+  {
+    "date": "2025-08-10T16:10:00-04:00",
+    "location": "Chase Field - Phoenix",
+    "opponent": "D-backs"
+  },
+  {
+    "date": "2025-08-11T19:45:00-04:00",
+    "location": "Busch Stadium - St. Louis",
+    "opponent": "Cardinals"
+  },
+  {
+    "date": "2025-08-12T19:45:00-04:00",
+    "location": "Busch Stadium - St. Louis",
+    "opponent": "Cardinals"
+  },
+  {
+    "date": "2025-08-13T14:15:00-04:00",
+    "location": "Busch Stadium - St. Louis",
+    "opponent": "Cardinals"
+  },
+  {
+    "date": "2025-08-14T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "D-backs"
+  },
+  {
+    "date": "2025-08-15T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "D-backs"
+  },
+  {
+    "date": "2025-08-16T20:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "D-backs"
+  },
+  {
+    "date": "2025-08-17T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "D-backs"
+  },
+  {
+    "date": "2025-08-18T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Dodgers"
+  },
+  {
+    "date": "2025-08-19T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Dodgers"
+  },
+  {
+    "date": "2025-08-20T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Dodgers"
+  },
+  {
+    "date": "2025-08-21T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Dodgers"
+  },
+  {
+    "date": "2025-08-22T18:40:00-04:00",
+    "location": "PNC Park - Pittsburgh",
+    "opponent": "Pirates"
+  },
+  {
+    "date": "2025-08-23T18:40:00-04:00",
+    "location": "PNC Park - Pittsburgh",
+    "opponent": "Pirates"
+  },
+  {
+    "date": "2025-08-24T12:05:00-04:00",
+    "location": "PNC Park - Pittsburgh",
+    "opponent": "Pirates"
+  },
+  {
+    "date": "2025-08-26T20:10:00-04:00",
+    "location": "Daikin Park - Houston",
+    "opponent": "Astros"
+  },
+  {
+    "date": "2025-08-27T20:10:00-04:00",
+    "location": "Daikin Park - Houston",
+    "opponent": "Astros"
+  },
+  {
+    "date": "2025-08-28T14:10:00-04:00",
+    "location": "Daikin Park - Houston",
+    "opponent": "Astros"
+  },
+  {
+    "date": "2025-08-29T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Cubs"
+  },
+  {
+    "date": "2025-08-30T20:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Cubs"
+  },
+  {
+    "date": "2025-08-31T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Cubs"
+  },
+  {
+    "date": "2025-09-01T16:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Giants"
+  },
+  {
+    "date": "2025-09-02T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Giants"
+  },
+  {
+    "date": "2025-09-03T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Giants"
+  },
+  {
+    "date": "2025-09-05T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Padres"
+  },
+  {
+    "date": "2025-09-06T20:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Padres"
+  },
+  {
+    "date": "2025-09-07T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Padres"
+  },
+  {
+    "date": "2025-09-08T22:10:00-04:00",
+    "location": "Dodger Stadium - Los Angeles",
+    "opponent": "Dodgers"
+  },
+  {
+    "date": "2025-09-09T22:10:00-04:00",
+    "location": "Dodger Stadium - Los Angeles",
+    "opponent": "Dodgers"
+  },
+  {
+    "date": "2025-09-10T22:10:00-04:00",
+    "location": "Dodger Stadium - Los Angeles",
+    "opponent": "Dodgers"
+  },
+  {
+    "date": "2025-09-11T21:40:00-04:00",
+    "location": "Petco Park - San Diego",
+    "opponent": "Padres"
+  },
+  {
+    "date": "2025-09-12T21:40:00-04:00",
+    "location": "Petco Park - San Diego",
+    "opponent": "Padres"
+  },
+  {
+    "date": "2025-09-13T20:40:00-04:00",
+    "location": "Petco Park - San Diego",
+    "opponent": "Padres"
+  },
+  {
+    "date": "2025-09-14T16:10:00-04:00",
+    "location": "Petco Park - San Diego",
+    "opponent": "Padres"
+  },
+  {
+    "date": "2025-09-16T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Marlins"
+  },
+  {
+    "date": "2025-09-17T20:40:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Marlins"
+  },
+  {
+    "date": "2025-09-18T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Marlins"
+  },
+  {
+    "date": "2025-09-19T20:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Angels"
+  },
+  {
+    "date": "2025-09-20T20:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Angels"
+  },
+  {
+    "date": "2025-09-21T15:10:00-04:00",
+    "location": "Coors Field - Denver",
+    "opponent": "Angels"
+  },
+  {
+    "date": "2025-09-23T21:40:00-04:00",
+    "location": "T-Mobile Park - Seattle",
+    "opponent": "Mariners"
+  },
+  {
+    "date": "2025-09-24T21:40:00-04:00",
+    "location": "T-Mobile Park - Seattle",
+    "opponent": "Mariners"
+  },
+  {
+    "date": "2025-09-25T21:40:00-04:00",
+    "location": "T-Mobile Park - Seattle",
+    "opponent": "Mariners"
+  },
+  {
+    "date": "2025-09-26T22:15:00-04:00",
+    "location": "Oracle Park - San Francisco",
+    "opponent": "Giants"
+  },
+  {
+    "date": "2025-09-27T16:05:00-04:00",
+    "location": "Oracle Park - San Francisco",
+    "opponent": "Giants"
+  },
+  {
+    "date": "2025-09-28T15:05:00-04:00",
+    "location": "Oracle Park - San Francisco",
+    "opponent": "Giants"
   }
 ]

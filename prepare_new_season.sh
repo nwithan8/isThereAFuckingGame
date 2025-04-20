@@ -32,7 +32,7 @@ if [ -z "$TEAM_ID" ]; then
 fi
 
 # Download the schedule for the team
-FILE="src/game-data/$TEAM-$YEAR.csv"
+FILE="src/game-data/csv/$TEAM-$YEAR.csv"
 ENDPOINT="https://www.ticketing-client.com/ticketing-client/csv/GameTicketPromotionPrice.tiksrv?team_id=$TEAM_ID&leave_empty_games=true&event_type=T&year=$YEAR"
 curl -s "$ENDPOINT" > "$FILE"
 
