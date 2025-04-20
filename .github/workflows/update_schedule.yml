@@ -38,5 +38,5 @@ jobs:
         with:
           add: 'src/game-data/schedule.json'
           default_author: github_actions
-          message: "Updated Schedule [skip actions]" # https://github.blog/changelog/2021-02-08-github-actions-skip-pull-request-and-push-workflows-with-skip-ci/
+          message: "Updated Schedule" # https://github.blog/changelog/2021-02-08-github-actions-skip-pull-request-and-push-workflows-with-skip-ci/
           push: '--force'
