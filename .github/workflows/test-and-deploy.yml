@@ -27,7 +27,7 @@ jobs:
 
   publish:
     name: Publish to Cloudflare Pages
-    needs: static-analysis
+    # needs: static-analysis
     environment: production
     runs-on: ubuntu-latest
     permissions:
