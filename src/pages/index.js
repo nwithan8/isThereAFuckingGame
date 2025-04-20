@@ -50,7 +50,7 @@ export default function Home() {
                 {formatGameTime(nextGameDate)} @ {nextGame.location}
               </h3>
             </> :
-            <h2>And there won't be until next fucking season!</h2>
+            <h2>And there won&apos;t be until next fucking season!</h2>
         }
 
       </div>

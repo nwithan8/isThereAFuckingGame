@@ -14,14 +14,14 @@ on:
 jobs:
   static-analysis:
     name: Static Analysis
-
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
       - name: Install Dependencies
-        uses: ./.github/actions/install-dependendencies
+        uses: ./.github/actions/install-dependencies
+
       - name: Static Analysis
         uses: ./.github/actions/static-analysis
 
@@ -29,7 +29,6 @@ jobs:
     name: Publish to Cloudflare Pages
     needs: static-analysis
     environment: production
-
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -40,17 +39,16 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Install Dependencies
-        uses: ./.github/actions/install-dependendencies
+        uses: ./.github/actions/install-dependencies
 
       - name: Build
         shell: bash
         run: npm run build:production
 
       - name: Publish to Cloudflare Pages
-        uses: cloudflare/pages-action@1
+        uses: cloudflare/wrangler-action@v3
         with:
-          accountId: 79fd517feb1d579982e26ccedd0fc4b3
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          directory: ./dist
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy ./dist --project-name=${{ secrets.CLOUDFLARE_PAGES_PROJECT_NAME }}
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-          projectName: is-there-a-fucking-rockies-game
