@@ -38,6 +38,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Establish variables
+        id: vars
+        run: |
+          echo "today=$(date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
+
       - name: Install Dependencies
         uses: ./.github/actions/install-dependencies
 
@@ -50,5 +55,5 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy ./dist --project-name=${{ secrets.CLOUDFLARE_PAGES_PROJECT_NAME }}
+          command: deploy --assets=./dist --name ${{ secrets.CLOUDFLARE_PAGES_PROJECT_NAME }} --compatibility-date ${{ steps.vars.outputs.today }}
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
